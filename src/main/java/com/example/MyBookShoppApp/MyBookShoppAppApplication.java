@@ -9,6 +9,7 @@ import org.springframework.context.annotation.PropertySource;
 public class MyBookShoppAppApplication {
 
 	public static void main(String[] args) {
+		//Hello
 		SpringApplication.run(MyBookShoppAppApplication.class, args);
 	}
 
